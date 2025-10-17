@@ -1,0 +1,21 @@
+# Python 虛擬環境
+.venv/
+venv/
+env/
+
+# MkDocs
+site/
+
+# Spec Stories
+.specstories/**
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# macOS
+.DS_Store
+
